@@ -1,0 +1,10 @@
+{
+  "name": "awesome-ai-api-plus",
+  "version": "1.0.0",
+  "description": "Growth-first curated AI API list with scoring model, SEO keyword packs, and runnable examples.",
+  "scripts": {
+    "keywords": "node examples/nodejs/keyword_cluster.js"
+  },
+  "license": "MIT"
+}
+

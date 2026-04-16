@@ -1,0 +1,5 @@
+name,category,url,pricing_model,integration_score,quality_score,price_score,reliability_score,seo_score,notes
+OpenAI Sora,video-generation,https://openai.com/sora,paid,90,92,80,90,95,Strong brand search demand
+OpenRouter,multimodal-llm,https://openrouter.ai/,free-paid,88,86,89,88,92,Fast multi-model routing
+Suno,music-audio,https://www.suno.ai/,free-paid,87,91,82,86,89,Great for UGC music workflows
+
